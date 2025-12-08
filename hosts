@@ -143,10 +143,10 @@
 127.0.0.1 cmbgame.anticheatexpert.com
 127.0.0.1 usa.cs.mbgame.anticheatexpert.com
 127.0.0.1 cs.mbgame.anticheatexpert.com
-127.0.0.1 anusa.csoversea.anticheatexpert.com127.0.0.1 阿努萨.csoversea.anticheatexpert.com
-127.0.0.1 usa.csoversea.anticheatexpert.com127.0.0.1 美国.csoversea.anticheatexpert.com127.0.0.1 美国.csoversea.anticheatexpert.com 127.0.0.1 美国.csoversea.anticheatexpert.com127.0.0.1 美国.csoversea.anticheatexpert.com 127.0.0.1 美国.csoversea.anticheatexpert.com 127.0.0.1 美国.csoversea.anticheatexpert.com 127.0.0.1 美国.csoversea.anticheatexpert.com
-127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com127.0.0.1 美国.csoversea.mbgame.anticheatexpert.com127.0.0.1 美国.csoversea.mbgame.anticheatexpert.com 127.0.0.1 美国.csoversea.mbgame.anticheatexpert.com127.0.0.1 美国.csoversea.mbgame.anticheatexpert.com 127.0.0.1 美国.csoversea.mbgame.anticheatexpert.com 127.0.0.1 美国.csoversea.mbgame.anticheatexpert.com 127.0.0.1 美国.csoversea.mbgame.anticheatexpert.com
-127.0.0.1 eu.csoversea.mbgame.anticheatexpert.com127.0.0.1 欧洲.csoversea.mbgame.anticheatexpert.com127.0.0.1 欧洲.csoversea.mbgame.anticheatexpert.com 127.0.0.1 欧洲.csoversea.mbgame.anticheatexpert.com127.0.0.1 欧洲.csoversea.mbgame.anticheatexpert.com 127.0.0.1 欧洲.csoversea.mbgame.anticheatexpert.com 127.0.0.1 欧洲.csoversea.mbgame.anticheatexpert.com 127.0.0.1 欧洲.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 anusa.csoversea.anticheatexpert.com
+127.0.0.1 usa.csoversea.anticheatexpert.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 eu.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 europe.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 middleeast.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 backupriotmtp.anticheatexpert.com
@@ -169,4 +169,5 @@
 127.0.0.1 defender.anticheatexpert.com
 
 127.0.0.1       localhost
+
 127.0.0.1             ip6-localhost
